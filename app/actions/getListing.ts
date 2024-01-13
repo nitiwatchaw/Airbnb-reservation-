@@ -6,10 +6,10 @@ export interface IListingsParams {
     guestCount?: number;
     roomCount?: number;
     bathroomCount?: number;
-    startDate?: number;
-    endDate?: number;
-    locationValue: number;
-    category?: number;
+    startDate?: string;
+    endDate?: string;
+    locationValue?: string;
+    category?: string;
 }
 
 // get all listing from database
