@@ -53,4 +53,4 @@ const useFavorite = ({ listingId, currentUser }: IUseFavorite) => {
     }
 }
 
-export default useFavorite;
+export default useFavorite; 

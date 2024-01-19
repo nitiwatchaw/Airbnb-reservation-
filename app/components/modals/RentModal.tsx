@@ -60,7 +60,6 @@ const RentModal = () => {
     }), [location])
 
 
-
     // *ใช้เพื่อ update value ของ 'category' , 'location' field เมื่อทำการ interact with input ต่างๆ
     // คล้ายกับๆสร้าง state เพื่อเก็บข้อมูลนั้นเอง
     const setCustomValue = (id: string, value: any) => {

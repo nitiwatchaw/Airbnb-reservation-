@@ -2,7 +2,7 @@
 import React from 'react'
 import Container from '../Container'
 import { TbBeach, TbMountain, TbPool } from 'react-icons/tb'
-import { GiWindmill, GiIsland, GiBoatFishing, GiCastle, GiForestCamp , GiCaveEntrance ,GiCactus , GiBarn} from 'react-icons/gi'
+import { GiWindmill, GiIsland, GiBoatFishing, GiCastle, GiForestCamp, GiCaveEntrance, GiCactus, GiBarn } from 'react-icons/gi'
 import { MdOutlineVilla } from 'react-icons/md'
 import { FaSkiing } from 'react-icons/fa'
 import CategoryBox from '../CategoryBox'
